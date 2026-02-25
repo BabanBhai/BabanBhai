@@ -14,7 +14,7 @@
   <h3>🚀 Turning Coffee into Code & AI into Solutions</h3>
   <p>I am a next-gen developer leveraging <b>Artificial Intelligence</b> to build scalable web applications, robust backends, and stunning Android apps at lightning speed.</p>
   
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:babanofficalgaming@gmail.com">
     <img src="https://img.shields.io/badge/Hire_Me-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin">
