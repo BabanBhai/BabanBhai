@@ -38,8 +38,15 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BabanBhai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabanBhai&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BabanBhai&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="BabanBhai's GitHub stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabanBhai&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="BabanBhai's top languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=BabanBhai&theme=tokyonight&hide_border=true" alt="BabanBhai's commit streak" />
 </div>
 
 <br>
